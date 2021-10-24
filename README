@@ -1,0 +1,30 @@
+With the Linux thermometer project our goal is to measure the local temperature 
+with own made hardware (based on the Dallas 1621 sensor), and connect that 
+hardware to a Linux box to create graphs.
+
+The GetTemp program is able to read the temperature of (maximum 8) dallas 1621 
+temperature sensors with Linux. Before you can measure the local temperature you 
+have to build the thermometer hardware and plug it on any available rs232 serial 
+port. More information about the Linux thermometer project and howto build the 
+thermometer harware look at http://www.joepverhaeg.nl/linuxtp.html
+
+As the base for this project we used the Dallas 1621 sensor information on the 
+website of Alberto Ricci Bitti. He wrote software in Visual Basic 5 for reading 
+the current temperature from the sensor(s). Full source code and binaries for 
+Microsoft® Windows 9x/2K/XP are available on his page: 
+http://www.riccibitti.com/pc_therm.htm.
+
+The software comes with ABSOLUTLY NO WARRANTY. This is free software, please 
+feel free to distribute it under te GPL conditions (for more information see 
+gnu.org). If you like the software you can send a postcard to the address below. 
+I would appreciate that very much (and local scenery is my favorite)!
+
+Remko Levels
+Hoogstraat 6
+6085 EG Horn
+The Netherlands
+
+Linux thermometer project website is hosted by Joep Verhaeg at 
+http://www.joepverhaeg.nl (where you can find more Linux resources).
+
+Enjoy!

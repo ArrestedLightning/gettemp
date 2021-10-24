@@ -1,0 +1,12 @@
+Todo:
+-Write a install part in the makefile
+-Commenting the source code (putting gpl statements in each file)
+-Exploring a log to file option
+-.. (feel free to add items if they will ever get in i don't know)
+
+
+New options:
+
+0.01 alpha 1 (30-4-2002)
+
+-first release
